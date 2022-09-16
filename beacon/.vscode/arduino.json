@@ -1,7 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "programmer": "arduino:avrispmkii",
-    "output": "build",
-    "sketch": "beacon.ino",
-    "port": "/dev/ttyUSB0"
-}
